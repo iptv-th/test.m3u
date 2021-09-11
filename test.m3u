@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062336.png",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062349.png",CH5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
+http://150.95.25.221:8000/TV5%20HD?u=covid19:p=956131574
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062437.png",CH7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062657.png",NBT
