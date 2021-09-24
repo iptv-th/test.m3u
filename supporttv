@@ -17,3 +17,30 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/3fF670726.jpg",TRUE4U
 http://27.254.130.62/feed/chtrue4u/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/8byc70727.png",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/R0fj70728.png",NATION CHANNEL
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/xROI70730.png",THAIRATH
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/eC6B70731.png",PPTV HD
+http://27.254.130.62/feed/chpptvhd/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/TQC770732.jpg",AMARIN
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/UwnK70733.png",ONE HD
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/e4Qg70734.jpg",Workpoint
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Cs7F70735.png",GMM25
+http://27.254.130.62/feed/chgmm/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Ee9u70736.png",New18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/j0m370737.png",Channel 8  
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/iRnI70738.png",wakuwakujapan
+https://www.we-play.tv/watching/tv/waku-waku-japan
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/3VjM70739.jpg",tvN
+https://www.we-play.tv/watching/tv/tvn
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/J0VI70740.png",X-Zyte
+https://www.we-play.tv/watching/tv/true-xzyte
