@@ -9,3 +9,11 @@ https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/n7kN70721.jpg",MCOT HD
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/SblY70723.png",THAI PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Upoj70724.png",ALTV4 Thai PBS
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/OBIC70725.png",TNN16
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/3fF670726.jpg",TRUE4U
+http://27.254.130.62/feed/chtrue4u/index.m3u8
