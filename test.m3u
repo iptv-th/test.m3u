@@ -53,7 +53,7 @@ https://www.doofree88.com/live/boomerang
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/sA9d70748.jpg",Disney Channel
 https://www.doofree88.com/live/disney-channel
-#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://www.i-pic.info/i/cCGz70747.pn",Baby TV
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://www.i-pic.info/i/cCGz70747.png",Baby TV
 https://www.we-play.tv/watching/tv/babytv
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/jouD70744.jpg",Toonee
 http://27.254.130.62/feed/LC23/index.m3u8
@@ -360,9 +360,6 @@ http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="NOข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113332.png",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
-#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065202.png",Disney Channel
-https://www.doofree88.com/live/disney-channel
 
 
 
