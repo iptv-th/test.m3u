@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/hOrA70717",CH3
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/aJ9p70718.png",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062349.png",CH5
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/yNgj70719.png",CH5
 http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w701180175.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062437.png",CH7
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/R9PN70720.png",CH7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062657.png",NBT
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/pr7j70722.png",NBT สทท
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062733.png",MCOT HD
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/n7kN70721.jpg",MCOT HD
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062819.png",THAI PBS
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/SblY70723.png",THAI PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-102532.jpg",ALTV4 Thai PBS
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Upoj70724.png",ALTV4 Thai PBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031450.jpg",TNN16
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/OBIC70725.png",TNN16
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-030959.jpg",TRUE4U
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/3fF670726.jpg",TRUE4U
 http://27.254.130.62/feed/chtrue4u/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/8byc70727.png",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031020.jpg",NATION CHANNEL
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/R0fj70728.png",NATION CHANNEL
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031320.jpg",THAIRATH
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/xROI70730.png",THAIRATH
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031059.jpg",PPTV HD
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/eC6B70731.png",PPTV HD
 http://27.254.130.62/feed/chpptvhd/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031115.jpg",AMARIN
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/TQC770732.jpg",AMARIN
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031132.jpg",ONE HD
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/UwnK70733.png",ONE HD
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031425.png",Workpoint
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/e4Qg70734.jpg",Workpoint
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031205.png",GMM25
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Cs7F70735.png",GMM25
 http://27.254.130.62/feed/chgmm/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031219.png",New18
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/Ee9u70736.png",New18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
-#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095131.png",Channel 8  
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/j0m370737.png",Channel 8  
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
-#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-043253.png",wakuwakujapan
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/iRnI70738.png",wakuwakujapan
 https://www.we-play.tv/watching/tv/waku-waku-japan
-#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-104826.png",tvN
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/3VjM70739.jpg",tvN
 https://www.we-play.tv/watching/tv/tvn
-#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-043137.png",X-Zyte
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://www.i-pic.info/i/J0VI70740.png",X-Zyte
 https://www.we-play.tv/watching/tv/true-xzyte
 
-#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065600.png",Cartoon Network
+#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/A78k70742.png",Cartoon Network
 https://www.doofree88.com/live/cartoon-network
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104523.jpg",Toonee
 http://27.254.130.62/feed/LC23/index.m3u8
