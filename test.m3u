@@ -47,14 +47,16 @@ https://www.we-play.tv/watching/tv/true-xzyte
 
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/A78k70742.png",Cartoon Network
 https://www.doofree88.com/live/cartoon-network
-#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104523.jpg",Toonee
-http://27.254.130.62/feed/LC23/index.m3u8
-#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065641.png",Boomerang
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://www.i-pic.info/i/xWpt70745.png",Boomerang
 https://www.doofree88.com/live/boomerang
-#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-03-074044.png",Cartoon Club
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://www.i-pic.info/i/pQjy70746.png",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-31-024409.png",Baby TV
+#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/sA9d70748.jpg",Disney Channel
+https://www.doofree88.com/live/disney-channel
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://www.i-pic.info/i/cCGz70747.pn",Baby TV
 https://www.we-play.tv/watching/tv/babytv
+#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/jouD70744.jpg",Toonee
+http://27.254.130.62/feed/LC23/index.m3u8
 
 
 #EXTINF:-1 group-title="สาระคดี"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071335.png",Discovery
