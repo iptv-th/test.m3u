@@ -94,7 +94,7 @@ https://www.we-play.tv/watching/tv/fox-family-movies
 https://we-play.tv/watching/tv/hbo-hd|Referer=https://we-play.tv/
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/kiFb70870.jpg",AXN HD
 https://www.we-play.tv/watching/tv/axn-hd
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/On9470871.pn",Warner TV (HD)
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/On9470871.png",Warner TV (HD)
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/4Ofq70874.png",BLUE ANT ENTERTAINMENT
 https://www.we-play.tv/watching/tv/blueant-entertainment|Referer=https://www.we-play.tv/
