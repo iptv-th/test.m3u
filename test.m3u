@@ -58,29 +58,26 @@ https://www.we-play.tv/watching/tv/babytv
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://www.i-pic.info/i/jouD70744.jpg",Toonee
 http://27.254.130.62/feed/LC23/index.m3u8
 
-
 #EXTINF:-1 group-title="สาระคดี"tvg-logo="https://www.i-pic.info/i/F1Tq70836.png",Discovery
 https://www.we-play.tv/watching/tv/discovery-channel
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-075732.png",Discovery Asia
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/FhCK70838.png",Discovery Asia
 https://www.we-play.tv/watching/tv/discovery-asia
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/aS1p70839.jpg",History TH
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 TH
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/brx970840.png",H2 TH
 http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-03-073355.png",Natgeo Wild
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/zlpD70841.png",Nat Geo Wild
 https://www.we-play.tv/watching/tv/nat-geo-wild
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-044220.png",Natgeo Graphic
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/NZkd70844.png",Natgeo Graphic
 https://www.we-play.live/watching/tv/national-geographic
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072054.png",BBC-Lifestyle
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/O8Jz70845.png",BBC-Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071424.png",ANIMAL PLANET
+#EXTINF:-1 group-title="สาระคดี"tvg-logo="https://www.i-pic.info/i/1xj570847.png",ANIMAL PLANET
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072304.png",สำรวจโลก
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/G3q670849.png",สำรวจโลก
 http://203.159.95.172:8081/live/explore/playlist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-03-075252.png",Love Nature
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.i-pic.info/i/QY2v70850.png",Love Nature
 https://www.we-play.tv/watching/tv/lovenature-4k
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-03-075712.png",CRIME + INVESTIGATION
-http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110855.png",Fox Thai
