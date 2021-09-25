@@ -119,39 +119,39 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zee หนัง
 https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
 
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/8ZIw70808.png",True PREMIER HD1
 https://www.we-play.tv/watching/tv/true-premier-football-hd-1
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1 Spare
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/8ZIw70808.png",True PREMIER HD1 สำรอง
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/oY1q70809.png",True PREMIER HD2
 https://www.we-play.tv/watching/tv/true-premier-football-hd-2
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2 Spare
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/oY1q70809.png",True PREMIER HD2 สำรอง
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/2EMi70810.png",True PREMIER HD3
 https://www.we-play.tv/watching/tv/true-premier-football-hd-3
-#EXTINF:- group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3 Spare
+#EXTINF:- group-title="True sport" tvg-logo="https://www.i-pic.info/i/2EMi70810.png",True PREMIER HD3 สำรอง
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/0va970811.png",True PREMIER HD4
 https://www.we-play.tv/watching/tv/true-premier-football-hd-4
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4 Spare
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/0va970811.png",True PREMIER HD4 สำรอง
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/0WxE70812.png",True PREMIER HD5
 https://www.we-play.tv/watching/tv/true-premier-football-hd-5
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5 Spare
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/0WxE70812.png",True PREMIER HD5 สำรอง
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-090607.png",FOX SPORT HD1
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/xoj570818.png",FOX SPORT HD1
 https://www.we-play.tv/watching/tv/fox-sports-hd
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-090627.png",FOX SPORT HD2
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/ycGH70828.png",FOX SPORT HD2
 https://www.we-play.tv/watching/tv/fox-sports-2
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-090648.png",FOX SPORT HD3
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/4Wt870817.jpg",FOX SPORT HD3
 https://www.we-play.tv/watching/tv/fox-sports-3
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040046.png",TRUE SPORT HD1
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/la2470804.png",TRUE SPORT HD1
 https://www.we-play.tv/watching/tv/true-sports-hd
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040101.png",TRUE SPORT HD2
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/S7nm70805.png",TRUE SPORT HD2
 https://www.we-play.tv/watching/tv/true-sports-hd-2
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040116.png",TRUE SPORT HD3
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/ctND70806.png",TRUE SPORT HD3
 https://www.we-play.tv/watching/tv/true-sports-hd-3
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-035949.png",TRUE SPORT HD4
+#EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/7K4j70807.png",TRUE SPORT HD4
 https://www.we-play.tv/watching/tv/true-sports-hd-4
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061709.png",TRUE SPORT 2
 https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
