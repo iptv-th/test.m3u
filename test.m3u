@@ -80,40 +80,40 @@ http://203.159.95.172:8081/live/explore/playlist.m3u8
 https://www.we-play.tv/watching/tv/lovenature-4k
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110855.png",Fox Thai
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/4Diq70862.jpg",Fox Thai
 http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111507.png",FOX? MOVIE
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/R6zX70863.png",FOX MOVIE
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111007.png",Fox Action Movie
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/ImPd70865.png",Fox Action Movie
 https://www.we-play.tv/watching/tv/fox-action-movies
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110912.png", FOX Life
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/5FKR70866.png", FOX Life
 https://mediasv.online/tvchannel_x1/hd-foxlife/playlist.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114731.png",Fox Family
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/GKD670868.png",Fox Family
 https://www.we-play.tv/watching/tv/fox-family-movies
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-112903.png",HBO 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/QDpG70869.png",HBO 
 https://we-play.tv/watching/tv/hbo-hd|Referer=https://we-play.tv/
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114304.png",AXN HD
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/kiFb70870.jpg",AXN HD
 https://www.we-play.tv/watching/tv/axn-hd
-#EXTINF:-1 group-title="Movie" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-warnertv.png",Warner TV (HD)
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/On9470871.pn",Warner TV (HD)
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114510.png",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/4Ofq70874.png",BLUE ANT ENTERTAINMENT
 https://www.we-play.tv/watching/tv/blueant-entertainment|Referer=https://www.we-play.tv/
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114449.png",BLUE ANT EXTREME
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/4Ofq70874.png",BLUE ANT EXTREME
 https://www.we-play.tv/watching/tv/blueant-extreme|Referer=https://www.we-play.tv/
-#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114644.png",Paramount Channel
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.i-pic.info/i/zqKZ70875.jpg",Paramount Channel
 https://www.we-play.tv/watching/tv/paramount-channel
 
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-24-053811.jpg",Mono29
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://www.i-pic.info/i/cyYX70853.jpg",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
-https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
-#EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
-https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-115234.png",M Channel
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://www.i-pic.info/i/p3U070858.png",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zee หนัง
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://www.i-pic.info/i/3gp070854.png",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://www.i-pic.info/i/EaKf70855.png",CTB
+https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
+#EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://www.i-pic.info/i/gwTD70856.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://www.i-pic.info/i/rCyW70859.jpg",Zee หนัง
 https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://www.i-pic.info/i/8ZIw70808.png",True PREMIER HD1
